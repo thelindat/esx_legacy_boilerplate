@@ -1,3 +1,9 @@
+#### This is not an actual resource, it just contains sample events and functions to reference when creating a resource.
+
+
+<br><br>
+
+
 ## Notes for usage - refer to the actual resource contents for better examples
 
 ### Replacement for ESX.GetPlayers()
